@@ -24,3 +24,21 @@ accuracy range | accuracy label
 +/- 4 st.        bad
 Dane bedą gromadzone w pliku historical_fc_accuracy.tsv
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+notatki: https://www.notion.so/Software-Engineering-IBM-Linux-weatherStation-project-192d9da520d2807ba3aadc864fd3f37c
